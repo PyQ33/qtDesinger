@@ -1,0 +1,2 @@
+# qtDesinger
+PyQt_qtDesinger_fromPythonAlgoSysT
